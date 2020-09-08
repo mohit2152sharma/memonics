@@ -1,6 +1,6 @@
 # Closure Error
 
-![](../images/clousreError.jpeg)
+![](../images/closureError.jpeg)
 
 Often times while indexing, you get the following error:
 ```r
